@@ -1,0 +1,31 @@
+body {
+    background-color: antiquewhite;
+}
+
+a {
+    text-decoration: none;
+}
+
+.button1 {
+    display: flex;
+    width: fit-content;
+    margin: 0 auto;
+    padding: 5px;
+    font-size: 50px;
+    background-color: coral;
+    border-width: 10px;
+    border-color: rgb(170, 88, 29);
+    border-radius: 3px;
+}
+
+.button2 {
+    display: flex;
+    width: fit-content;
+    margin: 0 auto;
+    padding: 5px;
+    font-size: 50px;
+    background-color: rgb(80, 200, 255);
+    border-width: 10px;
+    border-color: rgb(24, 104, 151);
+    border-radius: 3px;
+}
